@@ -26,6 +26,9 @@ CI/CD makes life easier for developers by:
 ---
 
 ## 4. Jenkins and Its Role in CI/CD
+
+![Jenkins](https://upload.wikimedia.org/wikipedia/commons/e/e9/Jenkins_logo.svg)
+
 Jenkins is like the captain of the CI/CD ship. It helps automate the entire process. Here’s why Jenkins is so popular:
 
 - **Automation**: Jenkins can build, test, and deploy your code automatically.
