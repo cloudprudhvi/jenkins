@@ -13,8 +13,6 @@ Before CI/CD, software development was like a bumpy road. Here are some common p
 - **Environment Issues**: Development, testing, and production environments were not the same, leading to deployment failures.
 - **Slow Deployment**: Deploying software was a manual and time-consuming process, full of human errors.
 
-![Challenges Before CI/CD](https://miro.medium.com/v2/resize:fit:1400/1*8ZP2I2F6J5F5J5F5J5F5J5.png)
-
 ---
 
 ## 3. How CI/CD Solves These Challenges
@@ -24,8 +22,6 @@ CI/CD makes life easier for developers by:
 - **Catching Bugs Early**: Automated tests find bugs early, saving time and effort.
 - **Consistent Environments**: Tools like Docker ensure that all environments are the same.
 - **Speeding Up Deployment**: Automated deployment means faster and more reliable releases.
-
-![How CI/CD Works](https://miro.medium.com/v2/resize:fit:1400/1*8ZP2I2F6J5F5J5F5J5F5J5.png)
 
 ---
 
@@ -37,8 +33,6 @@ Jenkins is like the captain of the CI/CD ship. It helps automate the entire proc
 - **Scalability**: Jenkins can handle small projects as well as large, distributed systems.
 - **Community Support**: Jenkins has a huge community, so you’ll always find help when you need it.
 
-![Jenkins Overview](https://miro.medium.com/v2/resize:fit:1400/1*8ZP2I2F6J5F5J5F5J5F5J5.png)
-
 ---
 
 ## 5. Benefits of Jenkins Compared to Other CI/CD Tools
@@ -49,14 +43,11 @@ Jenkins is not the only CI/CD tool, but it has some unique advantages:
 - **Large Plugin Library**: Jenkins can integrate with almost any tool, thanks to its plugins.
 - **Strong Community**: With so many users, you’ll find plenty of tutorials, forums, and documentation.
 
-![Jenkins vs Other Tools](https://miro.medium.com/v2/resize:fit:1400/1*8ZP2I2F6J5F5J5F5J5F5J5.png)
-
 ---
 
-## 6. Visual Aids
 Below is a simple diagram showing how Jenkins works in a CI/CD pipeline:
 
-![Jenkins CI/CD Pipeline](https://upload.wikimedia.org/wikipedia/commons/e/e9/Jenkins_logo.svg)
+![Jenkins Overview](https://civo-com-assets.ams3.digitaloceanspaces.com/content_images/2585.blog.png?1704705311)
 
 1. **Code Commit**: Developers commit code to a version control system (e.g., Git).
 2. **Build**: Jenkins automatically triggers a build process.
