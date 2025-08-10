@@ -1,7 +1,4 @@
 # Jenkins Freestyle Job Configuration: Detailed Guide
-
-This document explains every major configuration option available in a Jenkins Freestyle job, with clear examples and best practices. It is designed for junior developers or anyone new to Jenkins.
-
 ---
 
 ## 1. General
